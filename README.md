@@ -57,8 +57,6 @@ to integrate front-end functionality with back-end services.
 
 <div align="left">
   <h2>🐍 My Contributions</h2>
-  <br>
-    <br/>
 </div>
 
 
