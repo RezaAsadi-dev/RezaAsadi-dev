@@ -22,6 +22,8 @@ React Native for mobile application development.
  
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mr.asadi) 
   [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/RezaAsadi_Dev) 
+  [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)]([https://t.me/RezaAsadi_Dev](https://www.linkedin.com/in/reza-asadi-192744351)) 
+
 
 </div>
 
