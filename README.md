@@ -9,7 +9,7 @@
 
 <div align="left">
  
-I am a passionate Mid-Level Front-End Developer with over two years of experience in designing responsive and dynamic web applications. My skill set includes Next.js, React.js, TypeScript, Redux/Redux Toolkit, along with proficiency in various front-end frameworks such as Tailwind CSS, Bootstrap, Material UI (MUI), Ant Design (AntD), NextUI, and SCSS. Additionally, I have experience working with React Native for mobile application development.
+I’m a Front-End Developer with 3+ years of experience building responsive and dynamic web apps, with additional experience in React Native for mobile development. I can efficiently implement component-based, feature-based, atomic design, container-presentational, and modular architecture approaches.
 
  </div>
 <h2 align="left">🌐 Socials</h2>
