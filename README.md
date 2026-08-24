@@ -17,7 +17,8 @@ I’m a Front-End Developer with 3+ years of experience building responsive and 
  
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mr.asadi) 
   [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/RezaAsadi_Dev) 
-  [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-asadi-192744351) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-asadi-192744351)
+  [![Website](https://img.shields.io/badge/Website-%233670A0.svg?logo=googlechrome&logoColor=white)](https://web-pix.ir/)
 
 
 </div>
